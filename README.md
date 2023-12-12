@@ -1,6 +1,6 @@
-# Secret Santa
+# Gift Exchange
 
-Check it live on [arcanis.github.io/secretsanta/](http://arcanis.github.io/secretsanta/).
+Original source [https://github.com/arcanis/secretsanta](Arcanis's Secret Santa). Preview here [https://ammiyam.github.io/gift-exchange/](https://ammiyam.github.io/gift-exchange/).
 
 ## License (MIT)
 
